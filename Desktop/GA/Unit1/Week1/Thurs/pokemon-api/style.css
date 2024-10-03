@@ -7,14 +7,11 @@ body {
     margin: 0; 
 }
 
-
-/* #img {
-   
-     height: 55rem;
-     width: 100vw;
-    
-  
-} */
+#imgContainer {
+    height: 25rem;
+   margin-left: 33rem;
+   margin-top: 20rem;
+}
 
 #functions {
     position: fixed; 

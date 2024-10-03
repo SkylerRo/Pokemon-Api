@@ -1,0 +1,28 @@
+body {
+    background-image: url('https://www.shutterstock.com/image-vector/august-31-2016-vector-icon-260nw-476358922.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    height: 65rem; 
+    margin: 0; 
+}
+
+
+/* #img {
+   
+     height: 55rem;
+     width: 100vw;
+    
+  
+} */
+
+#functions {
+    position: fixed; 
+    bottom: 90px; 
+    right: 20px; 
+    padding: 10px 20px; 
+    background-color: #007BFF; 
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+}
